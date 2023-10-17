@@ -26,10 +26,9 @@ If you are a student interested in the "Racing with the Rajah" STEM course, simp
 For Teachers
 If you are an educator looking to incorporate this course into your curriculum, download the teacher version ZIP file. It contains all the necessary resources to plan and deliver the course effectively.
 
-
 **Getting Started**
 
-1. Clone or Download: You can clone this repository or click the "Download ZIP" button to obtain a copy of the course materials to your local machine.
+1. Download: Click the "Download ZIP" button to obtain a copy of the course materials to your local machine.
 
 2. Extract Files: After downloading, extract the contents of the ZIP files to access the course materials.
 
