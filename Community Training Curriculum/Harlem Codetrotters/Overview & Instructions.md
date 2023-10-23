@@ -6,7 +6,7 @@ Click the "Download ZIP" button on the far right (or click on the 3 dots in the 
   "Harlem Codetrotters Code and Play" zip file will give you access to a self-paced student module
 
 Step 2: Upload: Upload the course to your Community Training platform by following "Steps for bulk upload lessons for a course", steps 1-9
-Directions: microsoft-community-training/microsoft-community-training/content-management/create-content/create-course-category/upload-content-to-a-course.md at main · MicrosoftDocs/microsoft-community-training (github.com)
+Directions: https://github.com/MicrosoftDocs/microsoft-community-training/blob/main/microsoft-community-training/content-management/create-content/create-course-category/upload-content-to-a-course.md#option-2---bulk-upload-lessons
 
 Step 3: Publish: Click on the publish button for the course to be visible to your learners or facilitators.
 
