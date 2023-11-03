@@ -1,7 +1,7 @@
 Getting Started
 
 ⬇️**Step 1: Download: **
-Chose the file you would like to download from the Harlem Codetrotters course page. https://github.com/microsoft/NTA/tree/main/Community%20Training%20Curriculum/Harlem%20Codetrotters
+Chose the file you would like to download from the Harlem Codetrotters course page.
 Click the "Download ZIP" button on the far right (or click on the 3 dots in the far right and select "download") to obtain a copy of the course materials to your local machine.
   "Harlem Codetrotters Facilitators Guide" zip file will give you access to the educator guide
   "Harlem Codetrotters Code and Play" zip file will give you access to a self-paced student module
