@@ -1,7 +1,7 @@
 Getting Started
 
 ⬇️**Step 1: Download: **
-Click the "Download ZIP" button on the far right (or click on the 3 dots in the far right and select "download") to obtain a copy of the course materials to your local machine.
+Select the zip file you would like to download. Click the "Download ZIP" button on the far right (or click on the 3 dots in the far right and select "download") to obtain a copy of the course materials to your local machine.
   "Harlem Codetrotters Facilitators Guide" zip file will give you access to the educator guide
   "Harlem Codetrotters Code and Play" zip file will give you access to a self-paced student module
 
