@@ -32,7 +32,7 @@ If you are an educator looking to incorporate this course into your curriculum, 
 
 ## Getting Started
 
-__Step 1:__
+__Step 1__
 + Download: Chose the file you would like to download from the STEMxMotorsports course page. https://github.com/microsoft/NTA/tree/main/Community%20Training%20Curriculum/STEMxMotorsports. Click the "Download ZIP" button on the far right (or click on the 3 dots in the far right and select "download") to obtain a copy of the course materials to your local machine. 
 "Racing with Rajah-Teacher Content" zip file will give you access to the educator guide 
 "Racing with Rajah-Student Content" zip file will give you access to a self-paced student module
