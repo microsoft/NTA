@@ -1,7 +1,7 @@
 # Community Training Curriculum
 ---
 ## Introduction 
-Welcome to the "Racing with the Rajah" STEM course repository! This repository contains the course materials for a STEM course aimed at students interested in understanding how Science, Technology, Engineering, and Mathematics (STEM) principles apply to the world of racing. This course is intended for educators and students who want to explore the fascinating world of racing, with a focus on aerodynamics, engines, tires, and culminating activities that bring it all together.
+Welcome to the **Racing with the Rajah** STEM course repository! This repository contains the course materials for a STEM course aimed at students interested in understanding how Science, Technology, Engineering, and Mathematics (STEM) principles apply to the world of racing. This course is intended for educators and students who want to explore the fascinating world of racing, with a focus on aerodynamics, engines, tires, and culminating activities that bring it all together.
 
 ## Course Overview
 
