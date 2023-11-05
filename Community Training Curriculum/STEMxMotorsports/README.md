@@ -16,7 +16,7 @@ The **Racing with the Rajah** STEM course consists of several modules:
 4. Culminating Activities: The final module brings together the knowledge and skills acquired in the previous modules. Students will engage in hands-on activities and projects related to racing, applying what they've learned to solve real-world challenges.
 
 ## Course Materials
-This repository provides both student and teacher versions of the "Racing with the Rajah" STEM course. The course materials are provided in ZIP files for easy distribution and access. You can find these materials in the following directories:
+This repository provides both student and teacher versions of the **Racing with the Rajah** STEM course. The course materials are provided in ZIP files for easy distribution and access. You can find these materials in the following directories:
 
 Student Version: This folder contains the course materials designed for students. It includes presentations, worksheets, and resources for each module.
 
@@ -25,7 +25,7 @@ Teacher Version: In this folder, you will find additional resources such as answ
 ## Usage
 #### For Students
 
-If you are a student interested in the "Racing with the Rajah" STEM course, simply download the student version ZIP file, extract the contents, and follow the provided instructions to start your STEM racing adventure!
+If you are a student interested in the **Racing with the Rajah** STEM course, simply download the student version ZIP file, extract the contents, and follow the provided instructions to start your STEM racing adventure!
 
 #### For Teachers
 If you are an educator looking to incorporate this course into your curriculum, download the teacher version ZIP file. It contains all the necessary resources to plan and deliver the course effectively.
@@ -33,7 +33,7 @@ If you are an educator looking to incorporate this course into your curriculum, 
 ## Getting Started
 
 __Step 1__
-+ Download: Chose the file you would like to download from the STEMxMotorsports course page. https://github.com/microsoft/NTA/tree/main/Community%20Training%20Curriculum/STEMxMotorsports. Click the "Download ZIP" button on the far right (or click on the 3 dots in the far right and select "download") to obtain a copy of the course materials to your local machine. 
++ Download: Chose the file you would like to download from the STEMxMotorsports course page. https://github.com/microsoft/NTA/tree/main/Community%20Training%20Curriculum/STEMxMotorsports. Click the **Download ZIP** button on the far right (or click on the 3 dots in the far right and select "download") to obtain a copy of the course materials to your local machine. 
 "Racing with Rajah-Teacher Content" zip file will give you access to the educator guide 
 "Racing with Rajah-Student Content" zip file will give you access to a self-paced student module
 
