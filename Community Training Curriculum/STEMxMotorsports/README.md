@@ -7,20 +7,20 @@ Welcome to the **Racing with the Rajah** STEM course repository! This repository
 
 The **Racing with the Rajah** STEM course consists of several modules:
 
-1. How STEM Leads to Speed: This module introduces students to the fundamental principles of STEM and their direct applications in the world of racing. It emphasizes the connection between science, technology, engineering, and mathematics and the quest for speed in racing.
+**1. How STEM Leads to Speed:** This module introduces students to the fundamental principles of STEM and their direct applications in the world of racing. It emphasizes the connection between science, technology, engineering, and mathematics and the quest for speed in racing.
 
-2. Aerodynamics: In this module, students will delve into the science of aerodynamics. They will learn how the design of vehicles, including the shape, wings, and spoilers, can affect their speed and performance on the racetrack.
+**2. Aerodynamics:** In this module, students will delve into the science of aerodynamics. They will learn how the design of vehicles, including the shape, wings, and spoilers, can affect their speed and performance on the racetrack.
 
-3. Engine & Tires: This module explores the engineering and technology behind engines and tires in the world of racing. Students will gain insights into how engines and tires are designed and optimized for maximum performance.
+**3. Engine & Tires:** This module explores the engineering and technology behind engines and tires in the world of racing. Students will gain insights into how engines and tires are designed and optimized for maximum performance.
 
-4. Culminating Activities: The final module brings together the knowledge and skills acquired in the previous modules. Students will engage in hands-on activities and projects related to racing, applying what they've learned to solve real-world challenges.
+**4. Culminating Activities:** The final module brings together the knowledge and skills acquired in the previous modules. Students will engage in hands-on activities and projects related to racing, applying what they've learned to solve real-world challenges.
 
 ## Course Materials
 This repository provides both student and teacher versions of the **Racing with the Rajah** STEM course. The course materials are provided in ZIP files for easy distribution and access. You can find these materials in the following directories:
 
-Student Version: This folder contains the course materials designed for students. It includes presentations, worksheets, and resources for each module.
+**Student Version:** This folder contains the course materials designed for students. It includes presentations, worksheets, and resources for each module.
 
-Teacher Version: In this folder, you will find additional resources such as answer keys, lesson plans, and teaching guides to help educators deliver the course effectively.
+**Teacher Version:** In this folder, you will find additional resources such as answer keys, lesson plans, and teaching guides to help educators deliver the course effectively.
 
 ## Usage
 #### For Students
