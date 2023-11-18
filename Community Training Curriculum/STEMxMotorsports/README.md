@@ -33,12 +33,13 @@ If you are an educator looking to incorporate this course into your curriculum, 
 ## Getting Started
 
 __Step 1__
-+ **Download:** Chose the file you would like to download from the STEMxMotorsports course page. https://github.com/microsoft/NTA/tree/main/Community%20Training%20Curriculum/STEMxMotorsports. Click the **Download ZIP** button on the far right (or click on the 3 dots in the far right and select "download") to obtain a copy of the course materials to your local machine. 
++ **Download:** Chose the file you would like to [download](https://github.com/microsoft/NTA/tree/main/Community%20Training%20Curriculum/STEMxMotorsports) from the STEMxMotorsports course page. Click the **Download ZIP** button on the far right (or click on the 3 dots in the far right and select "download") to obtain a copy of the course materials to your local machine. 
 "Racing with Rajah-Teacher Content" zip file will give you access to the educator guide 
 "Racing with Rajah-Student Content" zip file will give you access to a self-paced student module
 
 **Step 2**
- + **Upload:** Upload the course to your Community Training platform by following "Steps for bulk upload lessons for a course", steps 1-9 Directions: https://github.com/MicrosoftDocs/microsoft-community-training/blob/main/microsoft-community-training/content-management/create-content/create-course-category/upload-content-to-a-course.md#option-2---bulk-upload-lessons
+ + **Upload:** Upload the course to your Community Training platform by following "Steps for bulk upload lessons for a course", steps 1-9 Directions: [Click Here](https://github.com/MicrosoftDocs/microsoft-community-training/blob/main/microsoft-community-training/content-management/create-content/create-course-category/upload-content-to-a-course.md#option-2---bulk-upload-lessons
+)
 
 **Step 3** 
 + **Publish:** Click on the publish button for the course to be visible to your learners or facilitators.
