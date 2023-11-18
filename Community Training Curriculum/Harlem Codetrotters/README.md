@@ -10,7 +10,8 @@ Select the .zip file you would like to download. Click the "Download ZIP" button
 **Step 2**
 + **Upload:**
 Upload the course to your Community Training platform by following "Steps for bulk upload lessons for a course", steps 1-9
-Directions: https://github.com/MicrosoftDocs/microsoft-community-training/blob/main/microsoft-community-training/content-management/create-content/create-course-category/upload-content-to-a-course.md#option-2---bulk-upload-lessons
+Directions: [Step for bulk upload lessons for a course](https://github.com/MicrosoftDocs/microsoft-community-training/blob/main/microsoft-community-training/content-management/create-content/create-course-category/upload-content-to-a-course.md#option-2---bulk-upload-lessons)
+
 NOTE: You've already completed the "Prerequisite for using Bulk Upload Lessons feature" by downloading the needed ZIP files from this GitHub
 
 **Step 3**
