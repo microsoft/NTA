@@ -1,5 +1,5 @@
 # Microsoft Nonprofit Tech Acceleration (NTA) program - Supporting Black community nonprofits
-The **Microsoft NTA** is committed to increasing technology for US-based nonprofits that support Black and African American communities.
+The **[Microsoft NTA](https://www.microsoft.com/en-us/nonprofits/technology-resources-black-nonprofits)** is committed to increasing technology for US-based nonprofits that support Black and African American communities.
 
 
 ## Community Training Curriculum
@@ -7,7 +7,7 @@ The **Microsoft NTA** is committed to increasing technology for US-based nonprof
 - ### STEMxMotorsports
   Welcome to the Racing with the **Rajah STEM course repository!** This repository contains the course materials for a STEM course aimed at students interested in understanding how Science, Technology, Engineering, and Mathematics (STEM) principles apply to the world of racing. This course is intended for educators and students who want to explore the fascinating world of racing, with a focus on aerodynamics, engines, tires, and culminating activities that bring it all together.
 
-- ### Microsoft x The Harlem CODEtrotters
+- ### [Microsoft x The Harlem CODEtrotters](https://codetrottersworld.net/)
   The Harlem Globetrotters and Microsoft team up to teach youth how to code. The Harlem CODEtrotters, a coding curriculum powered by Community Training and Microsoft Makecode, show students how to code their own Globetrotter player while learning about their rich basketball history and social impact.
 
 ## Microsoft Power Platform
