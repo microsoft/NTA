@@ -1,5 +1,5 @@
 # Microsoft Nonprofit Tech Acceleration (NTA) program - Supporting Black community nonprofits
-**[Microsoft NTA](https://www.microsoft.com/en-us/nonprofits/technology-resources-black-nonprofits)** is committed to increasing technology for US-based nonprofits that support Black and African American communities.
+**[Microsoft NTA](https://www.microsoft.com/en-us/nonprofits/technology-resources-black-nonprofits)** is committed to increasing technology for nonprofits that support Black and African American communities.
 
 
 ## Community Training Curriculum
