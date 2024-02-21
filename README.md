@@ -12,3 +12,6 @@
 
 ## Microsoft Power Platform
 Empower everyone in your organization to develop solutions with low-code tools. Do more with your data by using a low-code platform to secure and manage apps, workflows, and AI-powered tools. Easily manage, monitor, and secure your low-code investments with enterprise-grade compliance and governance.
+
+![image](https://github.com/microsoft/NTA/assets/149112162/6826cdfb-012a-4f74-86d3-fdfc20874cd5)
+
