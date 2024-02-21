@@ -1,6 +1,10 @@
 # Microsoft Power Platform 
 ---
-Microsoft Power Platform is a collection of low-code and no-code tools and apps. It is intended to enable people and businesses to develop unique business solutions without requiring in-depth coding expertise. The Power Platform is made up of four primary parts: 
+Microsoft Power Platform is a collection of low-code and no-code tools and apps. It is intended to enable people and businesses to develop unique business solutions without requiring in-depth coding expertise. The Power Platform is made up of the following components: 
+
+![image](https://github.com/microsoft/NTA/assets/149112162/883bb7e6-3b66-4d2b-ae95-2222017bc15b)
+
+
 
 ## Power BI
 
@@ -18,6 +22,9 @@ Power Automate (formerly known as Microsoft Flow) is an automation platform that
 
 Power Virtual Agents is a tool for building chatbots and virtual agents that can interact with users in a conversational manner. It doesn't require extensive programming skills, and users can create chatbots to handle customer inquiries, provide information, and perform various tasks. Learn more about What is Microsoft [Power Virtual Agents](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) & [Training](https://learn.microsoft.com/en-us/training/paths/work-power-virtual-agents/). 
 
+## Power Pages
+
+Microsoft Power Pages is a secure, enterprise-grade, low-code software as a service (SaaS) platform for creating, hosting, and administering modern external-facing business websites. Whether you're a low-code maker or a professional developer, Power Pages empowers you to rapidly design, configure, and publish websites that work across web browsers and devices.
 These Power Platform components work together to offer an extensive collection of tools for process automation, conversational AI, application development, and data analysis. To build complete business solutions, they can be utilized separately or in combination. 
 
 The Power Platform is tightly integrated with other Microsoft services and applications, such as Microsoft 365, Dynamics 365, Azure, and Common Data Service (CDS), allowing for seamless integration and collaboration within the Microsoft ecosystem. 
