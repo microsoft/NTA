@@ -25,7 +25,7 @@ Power Virtual Agents is a tool for building chatbots and virtual agents that can
 ## Power Pages
 
 Microsoft Power Pages is a secure, enterprise-grade, low-code software as a service (SaaS) platform for creating, hosting, and administering modern external-facing business websites. Whether you're a low-code maker or a professional developer, Power Pages empowers you to rapidly design, configure, and publish websites that work across web browsers and devices.
-These Power Platform components work together to offer an extensive collection of tools for process automation, conversational AI, application development, and data analysis. To build complete business solutions, they can be utilized separately or in combination. 
+These Power Platform components work together to offer an extensive collection of tools for process automation, conversational AI, application development, and data analysis. To build complete business solutions, they can be utilized separately or in combination. Learn more from the [Power pages](https://learn.microsoft.com/en-us/power-pages/).
 
 The Power Platform is tightly integrated with other Microsoft services and applications, such as Microsoft 365, Dynamics 365, Azure, and Common Data Service (CDS), allowing for seamless integration and collaboration within the Microsoft ecosystem. 
 
