@@ -18,7 +18,7 @@ With Power Apps, you can build custom applications without requiring any prior k
 
 Power Automate (formerly known as Microsoft Flow) is an automation platform that allows users to create workflows to automate tasks and processes across different applications and services. It integrates with a wide range of Microsoft and third-party services, enabling users to automate repetitive tasks, trigger actions based on specific events, and streamline business processes. Learn more about [What is Power Automate](https://learn.microsoft.com/en-us/power-automate/getting-started) & [Trainings](https://learn.microsoft.com/en-us/training/powerplatform/power-automate) 
 
-## Power Virtual Agents 
+## Power Virtual Agents (Now called Microsoft Copilot Studio)
 
 Power Virtual Agents is a tool for building chatbots and virtual agents that can interact with users in a conversational manner. It doesn't require extensive programming skills, and users can create chatbots to handle customer inquiries, provide information, and perform various tasks. Learn more about What is Microsoft [Power Virtual Agents](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) & [Training](https://learn.microsoft.com/en-us/training/paths/work-power-virtual-agents/). 
 
