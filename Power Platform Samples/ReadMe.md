@@ -18,14 +18,17 @@ With Power Apps, you can build custom applications without requiring any prior k
 
 Power Automate (formerly known as Microsoft Flow) is an automation platform that allows users to create workflows to automate tasks and processes across different applications and services. It integrates with a wide range of Microsoft and third-party services, enabling users to automate repetitive tasks, trigger actions based on specific events, and streamline business processes. Learn more about [What is Power Automate](https://learn.microsoft.com/en-us/power-automate/getting-started) & [Trainings](https://learn.microsoft.com/en-us/training/powerplatform/power-automate) 
 
-## Power Virtual Agents (Now called Microsoft Copilot Studio)
+## Microsoft Copilot Studio (Formerly called Power Virtual Agents)
 
-Power Virtual Agents is a tool for building chatbots and virtual agents that can interact with users in a conversational manner. It doesn't require extensive programming skills, and users can create chatbots to handle customer inquiries, provide information, and perform various tasks. Learn more about What is Microsoft [Power Virtual Agents](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) & [Training](https://learn.microsoft.com/en-us/training/paths/work-power-virtual-agents/). 
+Power Virtual Agents is a tool for building chatbots and Microsoft  that can interact with users in a conversational manner. It doesn't require extensive programming skills, and users can create chatbots to handle customer inquiries, provide information, and perform various tasks. Learn more about What is Microsoft [Power Virtual Agents](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) & [Training](https://learn.microsoft.com/en-us/training/paths/work-power-virtual-agents/). 
 
 ## Power Pages
 
+This [Microsoft Power Pages](https://github.com/microsoft/NTA/blob/main/Power%20Platform%20Samples/Microsoft%20Power%20Pages.ipynb) file showcase what is Power Pages, its capabilities and how to create a website using Microsoft Power Pages.
+
 Microsoft Power Pages is a secure, enterprise-grade, low-code software as a service (SaaS) platform for creating, hosting, and administering modern external-facing business websites. Whether you're a low-code maker or a professional developer, Power Pages empowers you to rapidly design, configure, and publish websites that work across web browsers and devices.
-These Power Platform components work together to offer an extensive collection of tools for process automation, conversational AI, application development, and data analysis. To build complete business solutions, they can be utilized separately or in combination. Learn more about [Power pages](https://learn.microsoft.com/en-us/power-pages/).
+These Power Platform components work together to offer an extensive collection of tools for process automation, conversational AI (Copilot), application development, and data analysis. To build complete business solutions, they can be utilized separately or in combination. Learn more about [Power pages](https://learn.microsoft.com/en-us/power-pages/).
+
 
 The Power Platform is tightly integrated with other Microsoft services and applications, such as Microsoft 365, Dynamics 365, Azure, and Common Data Service (CDS), allowing for seamless integration and collaboration within the Microsoft ecosystem. 
 
