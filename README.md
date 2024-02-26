@@ -15,3 +15,5 @@ Empower everyone in your organization to develop solutions with low-code tools. 
 
 ![image](https://github.com/microsoft/NTA/assets/149112162/6826cdfb-012a-4f74-86d3-fdfc20874cd5)
 
+This project discuss about the applications under the Microsoft Power Platform umbrella, thier capabilities and guide on how to use this products: [Power Platform Samples](https://github.com/microsoft/NTA/tree/main/Power%20Platform%20Samples)
+
