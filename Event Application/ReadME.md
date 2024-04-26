@@ -73,7 +73,7 @@ az deployment sub create --location eastus --template-file "main.bicep" --parame
 
 ### Deploying the Database Schema
 1. Login to you GitHub code repository
-2. Make copy the [main-db.yml](/.github/workflows/main-db.yml) file
+2. Make copy the [main-db.yml]([/.github/workflows/main-db.yml](https://github.com/microsoft/NTA/blob/main/Event%20Application/main-db.yml) file
 
 > ***Note:*** Consider naming the file to represent the deployment environment. For example: *second-nonprofit-db.yml*.
 
