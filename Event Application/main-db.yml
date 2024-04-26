@@ -1,0 +1,21 @@
+name: Main DB Publish
+
+on:
+  workflow_dispatch:
+
+env:
+  SQL_PROJECT_PATH: "./MSConference.API/MSConference.DB/MSConference.DB.sqlproj"
+  DB_CONNECTION_STRING: ${{ secrets.MAIN_DB_CONNECTION_STRING }} 
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: azure/sql-action@v2.2.1
+        with:        
+          connection-string: ${{ env.DB_CONNECTION_STRING }}
+          path: '${{ env.SQL_PROJECT_PATH }}'
+          action: 'publish'
